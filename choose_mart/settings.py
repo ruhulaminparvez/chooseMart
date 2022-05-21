@@ -28,6 +28,7 @@ INSTALLED_APPS = [
 
     #Installed Apps
     'category',
+    'accounts',
 ]
 
 MIDDLEWARE = [
@@ -59,6 +60,8 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'choose_mart.wsgi.application'
+
+AUTH_USER_MODEL = 'accounts.Account'
 
 
 # Database
