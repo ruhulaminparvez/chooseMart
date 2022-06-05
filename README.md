@@ -1,5 +1,5 @@
 # chooseMart
-A High Functionality backend based project using Django, AWS and more 🛒
+A High Functionality backend based project using Django, AWS and more.. 🛒
 
 
 ## Features 
