@@ -1,6 +1,7 @@
-# chooseMart - High-Functionality E-commerce Backend using Django & AWS
-This project is a comprehensive e-commerce backend system developed using Django and deployed on AWS Elastic Beanstalk. It features robust functionality for handling products, carts, and user interactions, while ensuring secure and scalable operations. 🛒
+# chooseMart
 
+## High-Functionality E-commerce Backend using Django & AWS:
+This project is a comprehensive e-commerce backend system developed using Django and deployed on AWS Elastic Beanstalk. It features robust functionality for handling products, carts, and user interactions, while ensuring secure and scalable operations. 🛒
 
 ## Key Features: 
 - **Custom User Model** with token-based login and account activation.
@@ -11,6 +12,5 @@ This project is a comprehensive e-commerce backend system developed using Django
 - **Review & Rating System** with two-factor checks and average rating calculations.
 - **Security** with Django’s built-in measures and secure password recovery.
 - Deployed on **AWS Elastic Beanstalk** for high availability and performance.
-
 
 This project delivers a robust, secure, and feature-rich backend for a scalable e-commerce application.
